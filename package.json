@@ -1,0 +1,9 @@
+{
+  "name": "seed",
+  "version": "0.0.0",
+  "description": "JS and React pieces",
+  "main": "index.js",
+  "repository": "git@github.com:danielortizlira/seed.git",
+  "author": "danortdev",
+  "license": "MIT"
+}
