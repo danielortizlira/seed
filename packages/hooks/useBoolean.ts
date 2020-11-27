@@ -8,7 +8,7 @@ type Helpers = {
 };
 
 /**
- * This hooks provide some helpers to make
+ * This hook provide some helpers to make
  * the use of boolean flags easier.
  * @param initialState boolean - The initial state 
  */
