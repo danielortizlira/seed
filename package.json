@@ -17,6 +17,7 @@
     "react": "^17.0.1"
   },
   "dependencies": {
+    "highlight.js": "^10.6.0",
     "prettier": "^2.2.1"
   }
 }
